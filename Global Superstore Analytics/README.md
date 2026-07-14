@@ -48,7 +48,7 @@ Celem projektu była analiza zbioru danych dotyczącego zamówień w globalnym s
 - wizualizacja trendu średniego czasu dostawy zamówienia w kolejnych miesiącach,
 - wizualizacja liczby zamówień z podziałem na segmenty klientów (klienci indywidualni, korporacje, biura domowe).
 <br>
-<img width="1436" height="806" alt="logis" src="https://github.com/user-attachments/assets/d19bd940-6003-425a-b836-17cac0a402a3" />
+<img width="1432" height="808" alt="products (1)" src="https://github.com/user-attachments/assets/d6390574-1239-4fb9-8ed6-7bf455f947ed" />
 <br>
 <br>
 <br>
@@ -60,7 +60,7 @@ Celem projektu była analiza zbioru danych dotyczącego zamówień w globalnym s
 - wizualizacja prezentująca 5 najbardziej dochodowych produktów,
 - wizualizacja prezentująca 5 najczęsciej kupowanych produktów.
 <br>
-<img width="1438" height="804" alt="products" src="https://github.com/user-attachments/assets/6d42cb69-1f79-4905-bf4f-a1159599062a" />
+<img width="1436" height="810" alt="logistis" src="https://github.com/user-attachments/assets/96e1f4df-08df-4534-a34c-1b0f0017af8d" />
 <br>
 <br>
 <br>
@@ -84,3 +84,10 @@ Celem projektu była analiza zbioru danych dotyczącego zamówień w globalnym s
 <br>
 <br>
 <br>
+
+### Wnioski:
+- Dynamiczny wzrost dochodu (2011 vs 2014) - Przedsiębiorstwo wykazuje dwukrotny wzrost dochodu na przestrzeni analizowanych lat przy prawie niezmiennej wartości marży zysku, co wskazuje na dynamiczny rozwój i skuteczną ekspansję firmy.
+- Kluczowe rynki - Główne dochody przedsiębiorstwa stanowią zamówienia realizowane w Stanach Zjednoczonych, Chinach, Indiach, Wielkiej Brytanii i Francji.
+- Problemy logistyczne - Mimo, że Stany Zjednoczone generują prawie dwukrotny zysk względem drugiego kraju w zestawieniu (Chiny), to pod względem dochodu koszty logistyczne są wyjątkowo wysokie W USA dochód jest porównywalny z kosztami logistycznymi, podczas gdy w Chinach koszty logistyczne są prawie dwukrotnie niższe niż dochód. Sugeruje to pilną potrzebe optymalizacji logistycznej lub zmiany sposobów wysyłki w Ameryce Północnej.
+- Oferowany asortyment - Pośród oferowanych kategorii produktów (Zaopatrzenie biurowe, Technologia, Meble) meble generują zaledwie 1/6 uzyskiwanych przychodów, co wynika z marży zysku na poziomie 7% (przy około 14% w pozostałych kategoriach) oraz kosztów dostawy wynoszących około 150% uzyskanego dochodu. Dane te sugerują potrzebę zmiany cen tych produktów oraz sposobów dostawy, a w przypadku braku poprawy całkowitą rezygnację z ich sprzedaży.
+- Analiza klientów - Dane wskazują na dwukrotny wzrost częstotliwości składania zamówień przez dotychczasowych klientów na przestrzeni lat 2011–2014. Jednocześnie jednak firma nie pozyskuje nowych konsumentów, co w dłuższej perspektywie może znacząco hamować dalszy rozwój przedsiębiorstwa i uzależnia organizację od obecnych odbiorców.
